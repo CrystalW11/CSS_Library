@@ -1,0 +1,39 @@
+* {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    margin: auto;
+    width: 1200px;
+    height: 200px;
+    font-size: xx-large;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 50px;
+}
+.container {
+        width: 1200px;
+        margin: 0 auto;
+}
+
+.btn {
+    background-color: rebeccapurple;
+    color: whitesmoke;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+.row {
+    margin-left: -100px;
+    margin-top: -100px;    
+    height: 0px;
+}
+
+
+.col {
+    margin-left: 100px;
+    margin-top: 100px;
+}
