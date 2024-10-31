@@ -1,7 +1,7 @@
 # CSS Library
 
 - Learn about creating a library of reusable code
-- 
+
 Start with the following stylesheet called `dojo.css`
 
 ![alt text](image.png)
